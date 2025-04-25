@@ -16,14 +16,14 @@ Edit and change it into anything you’d like. Create your own art, tear it down
 ### The only rule is: **embrace the chaos**.  
 Feel free to break everything or build something new. The world is wide open.
 
-Creative Commons Attribution 4.0 International (CC BY 4.0)
-===========================================================
+# Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License
+
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. 
 
 You are free to:
-- Share — copy and redistribute the material in any medium, mode, or format.
-- Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+- Share, remix, adapt, and build upon the work, as long as it is **not for commercial purposes**.
+- Provide appropriate credit to the original creator.
 
-Under the following terms:
-- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+**Commercial use** is not allowed under this license, meaning that you cannot sell, profit from, or use the work in any commercial context.
 
-Full details of the license can be found at: https://creativecommons.org/licenses/by/4.0/
+For more details, visit: https://creativecommons.org/licenses/by-nc/4.0/
